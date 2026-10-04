@@ -50,7 +50,7 @@ python score.py --predictions validation_predictions.csv --december-predictions 
 
 **Author:** Kundan Kumar
 
-**Contact:** Exchandanlife2001gmail.com
+**Contact:** edixlike@gmail.com
 
 ```
 
